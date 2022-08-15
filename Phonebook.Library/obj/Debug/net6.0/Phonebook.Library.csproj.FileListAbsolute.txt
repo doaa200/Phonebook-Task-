@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\TechnicalTask_PhoneBook\Phonebook.Library\obj\Debug\net6.0\Phonebook.Library.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TechnicalTask_PhoneBook\Phonebook.Library\obj\Debug\net6.0\Phonebook.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\TechnicalTask_PhoneBook\Phonebook.Library\obj\Debug\net6.0\Phonebook.Library.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TechnicalTask_PhoneBook\Phonebook.Library\obj\Debug\net6.0\Phonebook.Library.AssemblyInfo.cs
+C:\Users\hp\source\repos\TechnicalTask_PhoneBook\Phonebook.Library\obj\Debug\net6.0\Phonebook.Library.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TechnicalTask_PhoneBook\Phonebook.Library\bin\Debug\net6.0\Phonebook.Library.deps.json
+C:\Users\hp\source\repos\TechnicalTask_PhoneBook\Phonebook.Library\bin\Debug\net6.0\Phonebook.Library.runtimeconfig.json
+C:\Users\hp\source\repos\TechnicalTask_PhoneBook\Phonebook.Library\bin\Debug\net6.0\Phonebook.Library.dll
+C:\Users\hp\source\repos\TechnicalTask_PhoneBook\Phonebook.Library\bin\Debug\net6.0\Phonebook.Library.pdb
+C:\Users\hp\source\repos\TechnicalTask_PhoneBook\Phonebook.Library\obj\Debug\net6.0\Phonebook.Library.dll
+C:\Users\hp\source\repos\TechnicalTask_PhoneBook\Phonebook.Library\obj\Debug\net6.0\refint\Phonebook.Library.dll
+C:\Users\hp\source\repos\TechnicalTask_PhoneBook\Phonebook.Library\obj\Debug\net6.0\Phonebook.Library.pdb
+C:\Users\hp\source\repos\TechnicalTask_PhoneBook\Phonebook.Library\obj\Debug\net6.0\Phonebook.Library.genruntimeconfig.cache
+C:\Users\hp\source\repos\TechnicalTask_PhoneBook\Phonebook.Library\obj\Debug\net6.0\ref\Phonebook.Library.dll
